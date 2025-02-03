@@ -1,7 +1,7 @@
 # Server Configuration
 [server]
-host = "127.0.0.1"
-port = 1337
+host = "https://deepclaude-nine.vercel.app"
+port = 80
 
 # Pricing Configuration (per million tokens)
 [pricing]
